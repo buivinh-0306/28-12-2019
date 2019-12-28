@@ -1,0 +1,10 @@
+/* CSS Document */
+.col-12 nav{
+		background-color: #e9ecef;
+}
+ol li{
+	display:block;
+	text-align: center;
+	padding: 1px;
+	text-decoration: none;
+}
