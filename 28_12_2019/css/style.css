@@ -2,9 +2,16 @@
 .col-12 nav{
 		background-color: #e9ecef;
 }
-ol li{
-	display:block;
-	text-align: center;
-	padding: 1px;
-	text-decoration: none;
+#mau{
+	border-top-color: black;
+	
+	
+}
+#anh1{
+	width:230px;
+	height: 245px;
+	border-top-right-radius: 100%;
+	border-top-left-radius:100%;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
 }
